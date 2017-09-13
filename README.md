@@ -13,3 +13,5 @@ When registering, you can subscribe for information (email) on the new versions 
 
 Many software manufacturers explicitly disallow you any attempts of disassembling, decompilation, reverse engineering or modification of their programs. This restriction also covers all third-party dynamic-link libraries your application may use, including system libraries. If you have any doubts, contact the owner of copyright. The so called „fair use" clause can be misleading. You may want to discuss whether it applies in your case with competent lawyer. 
  
+Documents
+Reverse Engineering for beginner https://beginners.re/RE4B-EN.pdf
